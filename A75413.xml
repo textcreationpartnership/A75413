@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a scandalous paper, lately sent to the right Honourable the Lord Mayor, touching a late dispute intended by the Anabaptists with the Presbyterians. As also, a briefe discovery of the grosse mistakes and confused puslements of Anabaptisticall spirits in the point of rebaptising, according to Mr. Saltmarsh, in somelate [sic] exceptions here recited. With a reply to the main arguments of F.C. the great Anabaptisticall champion, / by a well-willer and daily desierer [sic] of a happy settlement of truth and peace.</title>
+            <author>Well-Willer and Daily Desierer of a Happy Settlement of Truth and Peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75413</idno>
+            <idno type="STC">Wing A3345</idno>
+            <idno type="STC">Thomason E355_16</idno>
+            <idno type="STC">ESTC R201115</idno>
+            <idno type="EEBO-CITATION">99861675</idno>
+            <idno type="PROQUEST">99861675</idno>
+            <idno type="VID">159899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 57:E355[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a scandalous paper, lately sent to the right Honourable the Lord Mayor, touching a late dispute intended by the Anabaptists with the Presbyterians. As also, a briefe discovery of the grosse mistakes and confused puslements of Anabaptisticall spirits in the point of rebaptising, according to Mr. Saltmarsh, in somelate [sic] exceptions here recited. With a reply to the main arguments of F.C. the great Anabaptisticall champion, / by a well-willer and daily desierer [sic] of a happy settlement of truth and peace.</title>
+                  <author>Well-Willer and Daily Desierer of a Happy Settlement of Truth and Peace.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: The Lord Mayors fare-well (Wing L3050), John Saltmarsh, and Francis Cornwell.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saltmarsh, John, d. 1647 --  Early works to 1800.</term>
+               <term>Cornwell, Francis --  Early works to 1800.</term>
+               <term>Lord Mayors fare-well --  Early works to 1800.</term>
+               <term>Anabaptists --  English --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159899:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A ſcandalous Paper, lately ſent to the right Honourable the <hi>Lord Mayor,</hi>
+            </p>
+            <p>Touching a late Diſpute intended by the Anabaptiſts with the Presbyterians.</p>
+            <p>AS ALSO A briefe Diſcovery of the groſſe miſtakes and confuſed puſlements of Anabaptiſticall ſpirits in the point of Rebaptiſing, according to Mr. <hi>Saltmarſh,</hi> in ſomelate exceptions here recited.</p>
+            <p>WITH A Reply to the main Arguments of <hi>F.C.</hi> the great Anabaptiſticall Champion, by a well willer and daily deſierer of a happy ſettlement of Truth and Peace.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T.B.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159899:2"/>
+            <pb n="1" facs="tcp:159899:2"/>
+            <head>A Reply to the <hi>Anabaptiſticall</hi> Letter ſent to the Lord Mayor by a nameleſſe Author.</head>
+            <p>FIrſt, the Accuſation therein is falſe, his Lordſhip broke not his Promiſe concerning the <hi>Diſputation;</hi> For his Lordſhip promi<g ref="char:EOLhyphen"/>ſed, by the Accuſers own confeſſion, nothing but what the Ho<g ref="char:EOLhyphen"/>nourable Houſes ſhould condeſcend unto, and ſince his Lordſhip was not ſought unto in the firſt place before the private Diſputation which was appointed, but by the multitude prevented, which they ſo much thronged to heare, having more puſlement, then practiſe in it, certainly his Lordſhip upon mature deliberation, well conſidered the many ill conveniences, which might inſue, upon ſuch a thronged deſi<g ref="char:EOLhyphen"/>reable Diſputation on your part.</p>
+            <p>Secondly, Your ſpreading of your hopes to get the day of your de<g ref="char:EOLhyphen"/>ſire, which was ſpread as you ſay, 30. or 40. mile, might upon the ſame ground as the former was, have prevented you if the multitude of Ci<g ref="char:EOLhyphen"/>ty and Country could do it, and happy were it for both City and Coun<g ref="char:EOLhyphen"/>try if there was not ſo much needleſſe diſpute and ſo little practiſe, which queſtionleſſe his Lordſhip well perceives.</p>
+            <p>Thirdly, Concerning his Lordſhips publiſhing an adjournment of the Diſputation to a convenient time, his Lordſhip declared ſufficient<g ref="char:EOLhyphen"/>ly that it was but untill he ſhould receive the pleaſure of both Houſes about the ſame.</p>
+            <p>Fourthly, Your taxing of his Lordſhip to turn your enemie by ap<g ref="char:EOLhyphen"/>proving of the Remonſtrance: for anſwer unto which though ſomething therein may be excepted againſt, yet it was done doubtleſſe upon a mature an advice &amp; to as good purpoſe as your diſputation might have proved: And if ſo many thouſand eyes looke upon his Lordſhip only as the furtherer of ſuch a Diſputation, though the ſame eyes look ano<g ref="char:EOLhyphen"/>ther way, his Lordſhip need not much to waigh that matter.</p>
+            <p>Fiftly, Whereas you conclude that the Clergie and his Lordſhip ha<g ref="char:EOLhyphen"/>ving debated the matter ſuſpect the truth of their cauſe and their owne ability as not daring to ſhew their faces in the open field, I am perſwa<g ref="char:EOLhyphen"/>ded
+<pb n="2" facs="tcp:159899:3"/>rather the needleſneſſe of the Diſpute and thoſe far fetcht preten<g ref="char:EOLhyphen"/>ces of yours, diving more into a circumſtance then a ſubſtance, prevents the ſame, your own Weapons abroad ſufficiently diſcover your skill to be no ſuch Maſter Fencers as you pretend, and though ſeven Churches can joyne in one for a Confeſſion, it is moſt certain all the ſeven are not able to eſtabliſh one of thoſe ſeven, though the leaſt Congregation, into a practiſe of what they could all joyn in one to confeſſe.</p>
+            <p>In the ſixt place whereas you remember his Lordſhip to be tearmed one of the builders of Sion, queſtioning whether it be Gods Sion or the Synagogue of <hi>Scotland,</hi> and as you ſay plainly, that it is out of que<g ref="char:EOLhyphen"/>ſtion that the rule of Gods word ſhould be all our rule for <hi>Practiſe.</hi>
+            </p>
+            <p>Stand to your word <hi>(Practiſe)</hi> and then what practiſe do you mean, if by Practiſe you intend Baptiſme of whom you pleaſe to beſtow it up<g ref="char:EOLhyphen"/>on, you muſt either prove Baptiſme to be of more account then <hi>Paul</hi> makes it, or elſe lay by this your mention of Practiſe.</p>
+            <p>Laſtly, to ſum up all your perſwaſions, inſinuations and invectives, ex<g ref="char:EOLhyphen"/>pecting to obtain your deſire in a publique Diſputation, rebaptiſing be<g ref="char:EOLhyphen"/>ing found of no concernment to a Chriſtian life, and ſo plain diſagree<g ref="char:EOLhyphen"/>ing to circumſiſſion for perſon, time and place, doth ſufficiently ſatisfie thoſe that are not ſo much taken up with circumſtantiall diſputes as re<g ref="char:EOLhyphen"/>all practiſe in Life and Converſation, which in many by this meanes is much abated and eclipſed to that once they were, and if yet you ſtand in need of more work, cleare thoſe exceptions which Mr. <hi>Saltmarſh</hi> hath laid down, and there you ſhall find work enough to ſettle ſome that more nearly concern you, and not thus to looke abroad for ſuch a publique Diſputation.</p>
+            <p>And thus leaving that Letter of falſe accuſation, I ſhall give you in the exceptions of Mr. <hi>Saltmarſh</hi> againſt Rebaptiſing in his ſmoke in the Temple, page 10. <hi>&amp;c.</hi> ſome of which I have here inſerted <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith little alteration.</p>
+            <p n="1">1. That Anabaptiſticall Diſciples cannot ſo baptiſe as the firſt did, becauſe they are not ſo gifted and qualified as the Diſciples of Chriſt and the Apoſtles were.</p>
+            <p n="2">2. That there was nver any one Diſciple in all the new Teſtament, that did baptiſe by way of Authority, but he was able to make out the truth of his calling and diſpenſation, either by Miracles, or Gifts.</p>
+            <p n="3">3. Thoſe ought not now to Rebaptiſe that take it thus upon them, unleſſe they could give out the Holy Ghoſt with it, which they cannot doe.</p>
+            <p n="4">
+               <pb n="3" facs="tcp:159899:3"/> 4. That the Churches where Rebaptiſing is uſed where they pretend moſt full and pure practiſe of ordinances, yet have no greater giſts then other Churches. But more particularly now to the main Arguments of one of the chiefe of their Champions.</p>
+            <p n="1">1. He argues thus: <hi>That which God hath joyned together no man ought to ſeparate, But faith or dipping according to the originall no man ought to ſeparate.</hi>
+            </p>
+            <p n="1">1. Reply, <hi>Though the major be true, yet the minor and the Argument are both falſe,</hi> for faith and baptiſme are not inſeparably joyned toge<g ref="char:EOLhyphen"/>ther, though the Apoſtles were ſent to preach and baptiſe all Nations, <hi>Math.</hi> 28.19. yet many afterward fell and periſht in unbeliefe; And on the contrary many have gone to Heaven that were never baptiſed, for we are all the Children of God by faith in Chriſt Jeſus, <hi>Gal.</hi> 3.26. and Baptiſme is not here annext, and although a man be baptiſed or dipt, if he believe not he ſhall be damned: All Chriſtians or Saints are not made ſo by Baptiſme, but by another worke.</p>
+            <p n="2">2. Reply, <hi>By this Argument none now ſhould be baptiſed untill they were able to worke ſignes which Chriſt ſaid ſhould follow thoſe that did believe, Mark.</hi> 16.17. And if you will grant ſignes or miracles are ceaſt, ſo al<g ref="char:EOLhyphen"/>ſo is the ſpirit of deſerning who are believers.</p>
+            <p>But in the next place he cites the decree of Pope <hi>Inocentius</hi> the third, and the decree of <hi>Gregory</hi> to prove baptiſme Antichriſtian.</p>
+            <p>To which for anſwer, know that we have a far better ground, 1. be<g ref="char:EOLhyphen"/>cauſe they belong to the Covenant, <hi>Gen.</hi> 17.7. Secondly, they are cal<g ref="char:EOLhyphen"/>led holy, 1 <hi>Cor.</hi> 7.14. Thirdly, which is moſt of all, they are redeemed by the blood of Chriſt, <hi>Jo.</hi> 11.52. And laſtly, The Apoſtles practiſe ſuf<g ref="char:EOLhyphen"/>ficiently ſettles us, who baptiſed whole Houſholds, <hi>Acts</hi> 16.33. and yet none can affirme that all were believers in the houſhold, nor prove no Children to be there. And upon this practiſe of the Apoſtles it is, that ſo many of latter as well as former godly Divines have practiſed this.</p>
+            <p>And as for the Covenant in reſpect of the ſeales of Circumciſſion and Baptiſme, you and the reſt which would make it but an outward ſeale, are much miſtaken, for it is an everlaſting covenant, <hi>Gen.</hi> 17.13. and though Circumciſſion be taken away becauſe Chriſt is come, yet as <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> ſaith, the grace of God which is the inward ſeale, and Baptiſme is a ſupply thereof.</p>
+            <p>Your ſecond Reaſon is, that there was a prefixt day for Circumciſſion, to wit, the 8. day, <hi>Gen.</hi> 17.12. but no day appointed for dipping or ſprinckling.</p>
+            <pb n="4" facs="tcp:159899:4"/>
+            <p> For anſwer whereof, know that although the eighth day be mentio<g ref="char:EOLhyphen"/>ned, yet the command was not abſolute for the 8. day, and this will appeare plainly in the example of the Children of <hi>Iſrael</hi> borne in the Wilderneſſe, by the way comming out of <hi>Aegipt,</hi> that were not cir<g ref="char:EOLhyphen"/>cumciſed till afterward, <hi>Joſua</hi> 5.5. upon neceſſity circumſiſſion might be deferred, as the eating of the Paſſeover might be put off, <hi>Numb.</hi> 9.10.</p>
+            <p>Your third Reaſon is, that there was a precept for Circumciſſion to injoyn it from God himſelfe, <hi>Gen.</hi> 17.11. and an example, <hi>Gen.</hi> 24.4, But ſay you neither precept nor example in Scripture to baptiſe In<g ref="char:EOLhyphen"/>fants.</p>
+            <p>For anſwer, there is a precept where both young and old are to be baptiſed, in <hi>Acts.</hi> 2.38, 39. <hi>Be baptiſed every one of you</hi> (ſaith <hi>Peter</hi> there) and to encourage all he is moſt expreſſe, and tels them the pro<g ref="char:EOLhyphen"/>miſe is made to them and to their ſeed, and to thoſe whoſe children were afar of even to as many as the Lord our God ſhall call: And there is alſo an example <hi>Acts</hi> 2. in the Infancie of the Church, where in one day three thouſand ſoules were added, which received the outward ſeale of Baptiſme, verſe 41. and the Children could not but partake of the ſame outward Priviledges with them.</p>
+            <p>But to proceed, Argument 2. you argue thus; <hi>That which is not of faith is ſin to the Church, or that perſon that doth it: But the Baptiſme of In<g ref="char:EOLhyphen"/>fants is not of Faith, Ergo a ſin.</hi>
+            </p>
+            <p>For anſwer whereof, to prove Baptiſme to Infants that are belie<g ref="char:EOLhyphen"/>vers children to be of faith, againſt you thus;</p>
+            <p>In the 19 of the <hi>Acts Paul</hi> tels the Diſciples at <hi>Epheſus,</hi> That <hi>John</hi> babtiſed, ſaying; that the people ſhould believe and repent on him that ſhould come after him, verſe 4. this was a command which he gave to thoſe that were very ignorant, and had not learned whether there were a Holy Ghoſt or not, verſe 2. though afterwards <hi>Paul</hi> laid his hands on them to declare that they were baptiſed in the name of the Lord Jeſus, and they received the Holy Ghoſt, and thus theſe chil<g ref="char:EOLhyphen"/>dren of thoſe believing Parents being of the holy ſeed have right to Baptiſme, <hi>Acts</hi> 16.33. But to anſwer your Reaſons as you call them.</p>
+            <p n="1">1. Say you, <hi>but Baptiſme puts Infants of believing Parents, into a ſtate of grace and Remiſſion of ſin before calling.</hi>
+            </p>
+            <p>By which reaſon your owne Teſtimony is fully againſt you, pro<g ref="char:EOLhyphen"/>ving formerly that Baptiſme hath no ſuch Prerogative.</p>
+            <pb n="5" facs="tcp:159899:4"/>
+            <p> Becauſe it is only the Election of Gods own purpoſe and grace, be<g ref="char:EOLhyphen"/>fore the world began, that puts us into this ſtate of grace, which is ma<g ref="char:EOLhyphen"/>nifeſted unto, and confer'd upon ſome before Baptiſme, <hi>Acts</hi> 8.36, 37. and upon others after Baptiſme, <hi>Acts</hi> 19.4. Baptiſme being only the outward Seale of the Church, and the work of grace upon the ſpirit, the inward ſeale as is formerly proved.</p>
+            <p n="2">2. Baptiſme conſtitutes the Infants of believing Parents members of a viſible Church, for if believing husbands do not keep out unbelie<g ref="char:EOLhyphen"/>ving Wives, then are not their Children unclean, in ſuch a ſence as to be deprived of entrance into the Congregation. 1. <hi>Cor.</hi> 7.14.</p>
+            <p n="3">3. Your next reaſon in ſubſtance is anſwered already concerning the Covenant of grace to be the inward ſeale of Gods Elect, and Baptiſme only the outward ſeale of the Viſible Church, whoſe Members not being elected cannot be ſaved, but muſt needs fall away and make a mock at Chriſt, <hi>Heb.</hi> 6.6. and only thoſe that have the inward ſeale they being baptiſed into Chriſt, whether Jew or Gentile are heires of Heaven, according to the promiſe, <hi>Gal.</hi> 3.27, 28, 29.</p>
+            <p n="4">4. Your Reaſon is not ſound, for none is ſo unwiſe to think grace is intail'd to generation, but to regeneration, for it neither doth nor can follow that all that are baptiſed ſhall be ſaved, the contrary being al<g ref="char:EOLhyphen"/>ready proved, and God is as well able to give Infants an habit of faith, ſo far to make them capeable of Aſcending to Heaven, if they die in In<g ref="char:EOLhyphen"/>fancie as well as men and women, and therefore is it that to ſuch be<g ref="char:EOLhyphen"/>longs the Kingdome of God.</p>
+            <p n="5">5. The further you go the more you erre, where you draw falſe con<g ref="char:EOLhyphen"/>cluſions.</p>
+            <p>Firſt, That all baptiſed perſons are ſaved.</p>
+            <p>Or ſecondly, That ſome being in the ſtate of grace may fall away afterwards, and thus by your diving into an obſcure nicety, you race the foundation of Religion.</p>
+            <p n="6">6. But now you undertake to prove, that baptiſing of Infants oppo<g ref="char:EOLhyphen"/>ſeth the Kingly office of Chriſt in faith and order, for proofe whereof you cite <hi>Math.</hi> 15.16. wherein Chriſt requires every one that is bap<g ref="char:EOLhyphen"/>tiſed to be a believer, unto which I anſwer it is moſt certain, and in the ſight and account of God none have a right to Baptiſme but believers, yet this is not in the power of men to diſtinguiſh believers from unbe<g ref="char:EOLhyphen"/>lievers, and therefore according to that of <hi>Matthew</hi> 28.29. where
+<pb n="6" facs="tcp:159899:5"/>you read the place, <hi>go teach and make Diſciples,</hi> and that this muſt be done by baptiſing, and then teaching, ſo that Baptiſme in the firſt order is not oppoſed.</p>
+            <p>But to your third Argument, wherein you argue thus; that conſe<g ref="char:EOLhyphen"/>quence which is upheld by the tradition of men is deſtructive to the in<g ref="char:EOLhyphen"/>ſtitution of Chriſt; wherein you abuſe the Practiſe of thoſe whoſe ſuf<g ref="char:EOLhyphen"/>ficient warrant from Scripture though you all carpe at never ſo long, yet can never clear, your endeavour being to make the priviledges of the Goſpell to the Children of believers, ſo far ſhort of what the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> under the Law did enjoy.</p>
+            <p>And thus forgetting the ſettlement of peace in the Kingdome, you make the breach very wide, oppoſing and interrupting a Reformati<g ref="char:EOLhyphen"/>on covenanted for and ſo much endeavoured after by all thoſe who de<g ref="char:EOLhyphen"/>ſire to live in a conſcionable obedience to the plain diſcovery of Gods holy will, clearly laid down in his holy and ſacred Word: whoſe de<g ref="char:EOLhyphen"/>ſires and bent, are ſet to further that work which the wiſe maſter buil<g ref="char:EOLhyphen"/>ders now have in hand, daily importuning the throne of grace, that the work may be ſo carried on, that all thoſe that deſire to live a holy life in all godlineſſe and honeſty, may obtain the deſire of their ſoules, and the great endeavour of thoſe whom they have intruſted to carry on that work; who have managed all things ſo in Church and State, as none can have cauſe to ſay or gain-ſay their wiſdome, in an all mighty power aſſiſting them, and the great God of Heaven and Earth perfect his work and praiſe in this our Sion, ſo that at the laſt we may have cauſe to ſay, bleſſed is he that proſpered his own worke, and thus gloriouſly perfected the ſame, <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
